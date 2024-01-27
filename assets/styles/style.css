@@ -1,0 +1,9 @@
+#customerDetailContainer {
+    /* Initially, set the container to be visible */
+    display: block;
+}
+
+#customerDetailContainer.hidden {
+    /* Hide the container by setting it to none */
+    display: none;
+}
